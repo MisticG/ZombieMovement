@@ -1,8 +1,9 @@
 
 var index = 0;
 
+function inSite();
+
 function moveZombie() {
-//  const button = document.getElementById("click");
     const zombie = document.getElementById("image");
 
 //   zombie.style.right = "4em";
